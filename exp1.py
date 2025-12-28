@@ -1,0 +1,10 @@
+age = int(input("Enter age: "))
+height = float(input("Enter height: "))
+name = input("Enter name: ")
+are_you_student = input("Are you a student (yes/no): ")
+
+print("\nMy Details")
+print(name)
+print(age)
+print(height)
+print(are_you_student)
